@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Build%20Status-Passing-informational?style=flat&logoColor=white&color=success)
 
 </div>	
+
 ## Auto Documentation
 
 ### Run the server then go to this [`link`](http://127.0.0.1:8000/docs)
