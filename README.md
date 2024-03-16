@@ -15,7 +15,7 @@ $ cd pip-api
 $ git checkout subtitles
 $ python -m venv venv && source venv/bin/activate && pip install -r requirements.txt
 $ pip install uvicorn
-$ uvicorn pip_api:app --port 5000
+$ uvicorn main:app --port 5000
 ```
 
 # Usage
